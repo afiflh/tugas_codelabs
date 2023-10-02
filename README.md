@@ -7,6 +7,9 @@ A new Flutter project.
 Langkah 7: Menambah kolom samping navigasi
 ![Screenshoot langkah 7](images/langkah_7.png)
 
+Langkah 8: Menambah halaman baru
+![Screenshoot langkah 8](images/langkah_8.png)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
